@@ -1,2 +1,13 @@
 # lucasmoises2007.github.io
-Estudo Engenharia de Software na UNIALFA e busco meu primeiro estágio em desenvolvimento. Tenho experiência acadêmica com PHP e SQL e gosto de entender como os sistemas funcionam por trás da interface. Também estudo C e tenho interesse em programação automotiva e sistemas embarcados.
+# Lucas Moisés
+
+Estudo Engenharia de Software na UNIALFA, em Goiânia, e busco meu primeiro estágio em desenvolvimento.
+
+## Meu primeiro projeto — Barbearia dos Lunáticos
+
+Desenvolvi o back-end de um site de agendamentos com meu grupo da faculdade.
+Fiquei responsável pela programação em PHP e pelo banco de dados MariaDB.
+
+Um dos desafios foi impedir que dois clientes reservassem o mesmo horário.
+Mesmo que os dois vejam as 13h disponíveis na tela, o banco permite confirmar
+apenas uma reserva para aquele horário.
